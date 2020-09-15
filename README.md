@@ -48,5 +48,19 @@ To add a custom directory to your theme-gem, please edit the regexp in `jekyll-t
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The theme is licensed under the terms of the [GNU Affero General Public License v3.0 only](https://www.gnu.org/licenses/).
 
+    jekyll-theme-dscliu: A Jekyll theme that is used on the DSC LIU Yemen Chapter
+    Copyright (C) 2020  "Khaldoon Mutahar", "DSC LIU Yemen"
+
+    jekyll-theme-dscliu is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, version 3 of the License.
+
+    jekyll-theme-dscliu is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with jekyll-theme-dscliu.  If not, see <https://www.gnu.org/licenses/>.
