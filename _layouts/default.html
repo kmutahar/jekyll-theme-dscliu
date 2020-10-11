@@ -1,1 +1,11 @@
-{{ content }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}.-->
+    {% include analytics-head.html %}
+</head>
+<body>
+    {% include analytics-body.html %}
+    {{ content }}
+</body>
+</html>
