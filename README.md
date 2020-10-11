@@ -1,5 +1,8 @@
 # jekyll-theme-dscliu
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+[![Gem Version](https://badge.fury.io/rb/jekyll-theme-dscliu.svg)](https://badge.fury.io/rb/jekyll-theme-dscliu)
+
 Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
 
 To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
