@@ -1,0 +1,59 @@
+/* services */
+#services {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/services.webp);
+    background-size: cover;
+    background-position: center;
+    color: #efefef !important;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#services h1 {
+    text-align: center;
+    color: #efefef !important;
+    padding-bottom: 10px;
+}
+
+#services h1::after {
+    content: '';
+    background: #efefef;
+    display: block;
+    height: 3px;
+    width: 170px;
+    margin: 20px auto 5px;
+}
+
+.services {
+    margin-top: 40px;
+}
+
+.icon {
+    font-size: 40px;
+    margin: 20px auto;
+    padding: 20px;
+    height: 80px;
+    width: 80px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+#services p {
+    font-size: 14px;
+    margin-top: 20px;
+    color: #ccc;
+
+}
+
+.services .col-md-3:hover {
+    background: #007bff;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.card-img-top {
+    filter: grayscale(1);
+    height: auto;
+    width: 210px;
+
+}

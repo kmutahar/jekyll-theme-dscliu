@@ -1,0 +1,19 @@
+/* Slider */
+#slider {
+    width: 100%;
+}
+
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-caption {
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial !important;
+}
+
+.carousel-caption h5 {
+    color: #fff;
+    font-size: 42px;
+}
