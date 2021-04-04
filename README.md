@@ -56,7 +56,7 @@ The theme is licensed under the terms of the [GNU Affero General Public License 
     jekyll-theme-dscliu: A Jekyll theme that is used by the DSC LIU Yemen Chapter
     Copyright (C) 2020  "Khaldoon Mutahar", "DSC LIU Yemen"
 
-    jekyll-theme-dscliu is free software: you can redistribute it and/or modify
+    This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published by
     the Free Software Foundation, version 3 of the License.
 

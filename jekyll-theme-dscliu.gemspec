@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Khaldoon Mutahar", "DSC LIU Yemen"]
   spec.email         = ["contact@mutahar.me"]
 
-  spec.summary       = "A Jekyll theme that is used on the DSC LIU Yemen Chapter"
+  spec.summary       = "A Jekyll theme that is used by the DSC LIU Yemen Chapter"
   spec.description   = "A custom made Jekyll theme developed and used by DSC LIU Yemen"
   spec.homepage      = "https://www.mutahar.me/jekyll-theme-dscliu/"
   spec.license       = "AGPL-3.0-only"
