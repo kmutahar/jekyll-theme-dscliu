@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/kmutahar/jekyll-theme-dscliu/compare/v0.2.0...v0.2.1) (2021-04-04)
+
+* bump: update to v0.2.1 ([fc84bb0](https://github.com/kmutahar/jekyll-theme-dscliu/commit/fc84bb0))
+* style(gemspec): change jekyll verison from 4.2 > 4.2.0 have it include the .0 at the end ([8739a32](https://github.com/kmutahar/jekyll-theme-dscliu/commit/8739a32))
+* fix(default): add missing includes items ([38fea23](https://github.com/kmutahar/jekyll-theme-dscliu/commit/38fea23))
+* doc(changelog): add changelog.md ([e0569a4](https://github.com/kmutahar/jekyll-theme-dscliu/commit/e0569a4))
+
+
+
 ## [0.2.0](https://github.com/kmutahar/jekyll-theme-dscliu/compare/v0.1.0-alpha.2...v0.2.0) (2021-04-04)
 
 * build: upgrade to version 0.2.0 ([dd18c14](https://github.com/kmutahar/jekyll-theme-dscliu/commit/dd18c14))
