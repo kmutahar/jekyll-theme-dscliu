@@ -1,0 +1,34 @@
+<!--NavigationBar-->
+{% comment %} <!-- TODO: Fix nav bar drop down and license it or re do it-->  {% endcomment %}
+<section id="nav-bar">
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="/"><img src="{{ site.site_logo | relative_url }}" alt="DSC LIU Logo"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                {%- for link in site.navbar-links -%}
+                {%- if link[1].first %}
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        {%- for childlink in link[1] -%}
+                        {%- for linkparts in childlink %}
+                        <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                        {%- endfor -%}
+                        {%- endfor %}
+                    </div>
+                </li>
+                {% else %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+                </li>
+                {%- endif -%}
+                {%- endfor -%}
+            </ul>
+        </div>
+    </nav>
+</section>
