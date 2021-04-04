@@ -1,11 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- This page was last updated on {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}Z -->
+
 <head>
-    <!--This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}.-->
+    {% include head.html %}
     {% include analytics-head.html %}
 </head>
+
 <body>
     {% include analytics-body.html %}
-    {{ content }}
+    <header>
+        {% include navbar.html %}
+    </header>
+    <div>
+        {{ content }}
+    </div>
+    <footer>
+        {% include footer.html %}
+    </footer>
+
+    <!-- jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="{{ 'assets/vendors/jquery-3.5.1-prod/jquery-3.5.1.slim.min.js' | relative_url }}"></script>
+    <script src="{{ 'assets/vendors/bootstrap-4.5.3-dist/js/bootstrap.bundle.min.js' | relative_url }}"></script>
 </body>
+
 </html>
