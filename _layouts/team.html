@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<!--Lead-->
+<section class="team">
+    <div class="container">
+        <h1>DSC LIU Lead</h1>
+        <!--after-->
+        <div class="row">
+            {% for member in site.data[page.term].team-leads %}
+            {% include team-member-profile.html %}
+            {% endfor %}
+        </div>
+        <!--before-->
+    </div>
+</section>
+
+<!--Technical Team-->
+<section class="team">
+    <div class="container">
+        <h1>Technical Team</h1>
+        <!--after-->
+        <div class="row">
+            {% for member in site.data[page.term].team-tech %}
+            {% include team-member-profile.html %}
+            {% endfor %}
+        </div>
+        <!--before-->
+    </div>
+</section>
+
+<!--Non-Teachnical team-->
+<section class="team">
+    <div class="container">
+        <h1>Non-Technical Team</h1>
+        <!--after-->
+        <div class="row">
+            {% for member in site.data[page.term].team-nontech %}
+            {% include team-member-profile.html %}
+            {% endfor %}
+        </div>
+        <!--before-->
+    </div>
+</section>
