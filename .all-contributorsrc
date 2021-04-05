@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kmutahar",
+      "name": "Khaldoon Mutahar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18140052?v=4",
+      "profile": "https://www.mutahar.me",
+      "contributions": [
+        "business",
+        "infra",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "jekyll-theme-dscliu",
+  "projectOwner": "kmutahar",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
