@@ -1,6 +1,6 @@
 # jekyll-theme-dscliu
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
@@ -82,6 +82,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.mutahar.me"><img src="https://avatars.githubusercontent.com/u/18140052?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Khaldoon Mutahar</b></sub></a><br /><a href="#business-kmutahar" title="Business development">💼</a> <a href="#infra-kmutahar" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-kmutahar" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/safamoqbel-coder"><img src="https://avatars.githubusercontent.com/u/69394571?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Safa Moqbel</b></sub></a><br /><a href="#business-safamoqbel-coder" title="Business development">💼</a> <a href="https://github.com/kmutahar/jekyll-theme-dscliu/commits?author=safamoqbel-coder" title="Code">💻</a> <a href="#design-safamoqbel-coder" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/mohammed0alhaddad"><img src="https://avatars.githubusercontent.com/u/69595340?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mohammed0alhaddad</b></sub></a><br /><a href="https://github.com/kmutahar/jekyll-theme-dscliu/commits?author=mohammed0alhaddad" title="Code">💻</a> <a href="https://github.com/kmutahar/jekyll-theme-dscliu/issues?q=author%3Amohammed0alhaddad" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
