@@ -15,6 +15,17 @@
         "infra",
         "maintenance"
       ]
+    },
+    {
+      "login": "safamoqbel-coder",
+      "name": "Safa Moqbel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69394571?v=4",
+      "profile": "https://github.com/safamoqbel-coder",
+      "contributions": [
+        "business",
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
