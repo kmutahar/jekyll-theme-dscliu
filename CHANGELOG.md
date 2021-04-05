@@ -1,3 +1,12 @@
+## [0.2.2](https://github.com/kmutahar/jekyll-theme-dscliu/compare/v0.2.1...v0.2.2) (2021-04-05)
+
+* build(gemspec): have changelog be part of the gem build ([1d13cca](https://github.com/kmutahar/jekyll-theme-dscliu/commit/1d13cca))
+* style: fix style to make later edits easier ([010751c](https://github.com/kmutahar/jekyll-theme-dscliu/commit/010751c))
+* fix: external links to use the proper protocol www vs non-www depending on site ([fb753d7](https://github.com/kmutahar/jekyll-theme-dscliu/commit/fb753d7))
+* doc(changelog): update changelog to v0.2.1 ([8a1f5dd](https://github.com/kmutahar/jekyll-theme-dscliu/commit/8a1f5dd))
+
+
+
 ## [0.2.1](https://github.com/kmutahar/jekyll-theme-dscliu/compare/v0.2.0...v0.2.1) (2021-04-04)
 
 * bump: update to v0.2.1 ([fc84bb0](https://github.com/kmutahar/jekyll-theme-dscliu/commit/fc84bb0))
