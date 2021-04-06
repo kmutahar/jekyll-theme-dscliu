@@ -4,7 +4,8 @@
         {% if member.picture %}
         {% capture image_url %}assets/images-team/{{ page.term }}/{{ member.picture }}
         {% endcapture %}
-        <img src="{{ image_url  | relative_url }}" class="img-responsive rounded">
+        <img src="{{ image_url  | relative_url }}" class="img-responsive rounded"
+            alt="Portrait Picture of {{ member.name }}">
         {% else %}
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="150" height="auto">
             <!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) -->
