@@ -1,3 +1,19 @@
+## [0.2.3](https://github.com/kmutahar/jekyll-theme-dscliu/compare/v0.2.2...v0.2.3) (2021-04-06)
+
+* fix(social-links): add li tag since it was missing ([90a1193](https://github.com/kmutahar/jekyll-theme-dscliu/commit/90a1193))
+* fix(team-profiles): add alt tag to img since it was missing ([de34b45](https://github.com/kmutahar/jekyll-theme-dscliu/commit/de34b45))
+* fix(team-profiles): add li tag since it was missing ([5126b33](https://github.com/kmutahar/jekyll-theme-dscliu/commit/5126b33))
+* docs: create .all-contributorsrc [skip ci] ([0caf962](https://github.com/kmutahar/jekyll-theme-dscliu/commit/0caf962))
+* docs: update .all-contributorsrc [skip ci] ([fac10f9](https://github.com/kmutahar/jekyll-theme-dscliu/commit/fac10f9))
+* docs: update .all-contributorsrc [skip ci] ([e11bdc1](https://github.com/kmutahar/jekyll-theme-dscliu/commit/e11bdc1))
+* docs: update .all-contributorsrc [skip ci] ([527a449](https://github.com/kmutahar/jekyll-theme-dscliu/commit/527a449))
+* docs: update README.md [skip ci] ([eaac858](https://github.com/kmutahar/jekyll-theme-dscliu/commit/eaac858))
+* docs: update README.md [skip ci] ([f8ae9fa](https://github.com/kmutahar/jekyll-theme-dscliu/commit/f8ae9fa))
+* docs: update README.md [skip ci] ([ea2f9d2](https://github.com/kmutahar/jekyll-theme-dscliu/commit/ea2f9d2))
+* docs: update README.md [skip ci] ([78dfe25](https://github.com/kmutahar/jekyll-theme-dscliu/commit/78dfe25))
+
+
+
 ## [0.2.2](https://github.com/kmutahar/jekyll-theme-dscliu/compare/v0.2.1...v0.2.2) (2021-04-05)
 
 * build(gemspec): have changelog be part of the gem build ([1d13cca](https://github.com/kmutahar/jekyll-theme-dscliu/commit/1d13cca))
