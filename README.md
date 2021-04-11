@@ -1,6 +1,6 @@
 # jekyll-theme-dscliu
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
@@ -84,6 +84,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/safamoqbel-coder"><img src="https://avatars.githubusercontent.com/u/69394571?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Safa Moqbel</b></sub></a><br /><a href="#business-safamoqbel-coder" title="Business development">💼</a> <a href="https://github.com/kmutahar/jekyll-theme-dscliu/commits?author=safamoqbel-coder" title="Code">💻</a> <a href="#design-safamoqbel-coder" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/mohammed0alhaddad"><img src="https://avatars.githubusercontent.com/u/69595340?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mohammed0alhaddad</b></sub></a><br /><a href="https://github.com/kmutahar/jekyll-theme-dscliu/commits?author=mohammed0alhaddad" title="Code">💻</a> <a href="https://github.com/kmutahar/jekyll-theme-dscliu/issues?q=author%3Amohammed0alhaddad" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/ShEhAb0"><img src="https://avatars.githubusercontent.com/u/70029079?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ShEhAb0</b></sub></a><br /><a href="https://github.com/kmutahar/jekyll-theme-dscliu/commits?author=ShEhAb0" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.codegent.com"><img src="https://avatars.githubusercontent.com/u/7318?v=4?s=100" width="100px;" alt=""/><br /><sub><b>codegent</b></sub></a><br /><a href="https://github.com/kmutahar/jekyll-theme-dscliu/commits?author=code" title="Code">💻</a></td>
   </tr>
 </table>
 
