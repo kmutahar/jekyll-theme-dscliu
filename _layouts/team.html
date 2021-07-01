@@ -22,7 +22,8 @@ layout: default
         <h1>Technical Team</h1>
         <!--after-->
         <div class="row">
-            {% for member in site.data[page.term].team-tech %}
+            {% assign team = site.data[page.term].team-tech | sort_natural: 'name' %}
+            {% for member in team %}
             {% include team-member-profile.html %}
             {% endfor %}
         </div>
@@ -36,7 +37,8 @@ layout: default
         <h1>Non-Technical Team</h1>
         <!--after-->
         <div class="row">
-            {% for member in site.data[page.term].team-nontech %}
+            {% assign team = site.data[page.term].team-nontech | sort_natural: 'name' %}
+            {% for member in team %}
             {% include team-member-profile.html %}
             {% endfor %}
         </div>
